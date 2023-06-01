@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deniss Maksimenkovs</h1>
-<h3 align="center">A passionate front-end developer and back-end from Latvia</h3>
+<h3 align="center">A passionate front-end and back-end developer from Latvia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asamarus&label=Profile%20views&color=0e75b6&style=flat" alt="asamarus" /> </p>
+[My Portfolio]( https://asamarus.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
